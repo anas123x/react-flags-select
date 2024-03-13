@@ -96,7 +96,7 @@ export const countries: Countries = {
   IQ: "Iraq",
   IE: "Ireland",
   IM: "Isle of Man",
-  IL: "Israel",
+ 
   IT: "Italy",
   JM: "Jamaica",
   JP: "Japan",
@@ -155,7 +155,7 @@ export const countries: Countries = {
   OM: "Oman",
   PK: "Pakistan",
   PW: "Palau",
-  PS: "Palestinian Territory",
+  PS: "Palestine ❤️",
   PA: "Panama",
   PG: "Papua New Guinea",
   PY: "Paraguay",
